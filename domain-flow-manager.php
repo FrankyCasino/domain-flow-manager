@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Domain Flow Manager
- * Plugin URI:  http://example.com
+ * Plugin URI:  https://github.com/FrankyCasino/domain-flow-manager/
  * Description: A plugin to manage Cloudflare domains directly from your WordPress dashboard.
  * Version:     1.01 Beta
  * Author:      Crypto Casino
